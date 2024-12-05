@@ -1,8 +1,8 @@
 ## Hello dev! Im Karime Caldas...
 
 <div >
-  <img widht=50% src="https://github-readme-stats.vercel.app/api?username=karimecaldas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img widht=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimecaldas&layout=compact&langs_count=16&theme=transparent"/>
+  <img widht=50% height=50%  src="https://github-readme-stats.vercel.app/api?username=karimecaldas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img widht=42% height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimecaldas&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <picture align="center">
@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg4dHAxeGZ5bWc1N2UyYWozZ2o1aWJnNm9laGY2MGN5bTAyZjNkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Gif" width=1000vw/>
+      <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" alt="Gif" width=1500vw/>
     </td>
     <td>
       <p>Levi Yuki Utima is a dedicated front-end developer with a passion for building interactive and efficient user interfaces. Specializing in React, Levi enjoys exploring new technologies and continuously enhancing his skills. His deep love for programming drives him to achieve his long-term goal of becoming a full-stack developer, bridging the gap between front-end and back-end development. With a curious and determined mindset, Levi is always looking for opportunities to grow and innovate in the world of web development.</p>
