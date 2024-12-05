@@ -13,7 +13,7 @@
 <div align="center">
   
 ## Main Skills
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,angular)](https://skillicons.dev)
 
 </div>
 
