@@ -24,7 +24,7 @@
       <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" alt="Gif" width=1500vw/>
     </td>
     <td>
-      <p>Levi Yuki Utima is a dedicated front-end developer with a passion for building interactive and efficient user interfaces. Specializing in React, Levi enjoys exploring new technologies and continuously enhancing his skills. His deep love for programming drives him to achieve his long-term goal of becoming a full-stack developer, bridging the gap between front-end and back-end development. With a curious and determined mindset, Levi is always looking for opportunities to grow and innovate in the world of web development.</p>
+      <p>Develop applications to solve everyday problems experienced at the University of Fortaleza, performing project development and technical surveys, working directly with the Back-End team using PHP.</p>
     </td>
   </tr>
 </table>  
