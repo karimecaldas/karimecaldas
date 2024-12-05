@@ -1,8 +1,8 @@
 ## Hello dev! Im Karime Caldas...
 
 <div >
-  <img widht=50% height=50%  src="https://github-readme-stats.vercel.app/api?username=karimecaldas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img widht=42% height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimecaldas&layout=compact&langs_count=16&theme=transparent"/>
+  <img widht=100vw height=50%  src="https://github-readme-stats.vercel.app/api?username=karimecaldas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img widht=100% height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimecaldas&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <picture align="center">
